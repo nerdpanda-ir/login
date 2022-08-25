@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "mikhak-fd-black";
+    src: 
+        url("../../../font/mikhak-fd/Mikhak-FD-Black.eot?#iefix") format("eot") , 
+        url("../../../font/mikhak-fd/Mikhak-FD-Black.eot") format("eot") , 
+        url("../../../font/mikhak-fd/Mikhak-FD-Black.svg") format("svg") , 
+        url("../../../font/mikhak-fd/Mikhak-FD-Black.ttf") format("ttf") , 
+        url("../../../font/mikhak-fd/Mikhak-FD-Black.woff") format("woff") , 
+        url("../../../font/mikhak-fd/Mikhak-FD-Black.woff2") format("woff2")
+    ;
+}

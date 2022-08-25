@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "vazir-rd-fd-wol-extra-bold";
+    src: 
+        url("../../../font/vazir-rd-fd-wol/Vazirmatn-RD-FD-NL-ExtraBold.eot?#iefix") format("eot") , 
+        url("../../../font/vazir-rd-fd-wol/Vazirmatn-RD-FD-NL-ExtraBold.eot") format("eot") , 
+        url("../../../font/vazir-rd-fd-wol/Vazirmatn-RD-FD-NL-ExtraBold.svg") format("svg") , 
+        url("../../../font/vazir-rd-fd-wol/Vazirmatn-RD-FD-NL-ExtraBold.ttf") format("ttf") , 
+        url("../../../font/vazir-rd-fd-wol/Vazirmatn-RD-FD-NL-ExtraBold.woff") format("woff") , 
+        url("../../../font/vazir-rd-fd-wol/Vazirmatn-RD-FD-NL-ExtraBold.woff2") format("woff2")
+    ;
+}

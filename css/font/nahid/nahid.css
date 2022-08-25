@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "nahid";
+    src: 
+        url("../../../font/nahid/Nahid.eot?#iefix") format("eot") , 
+        url("../../../font/nahid/Nahid.eot") format("eot") , 
+        url("../../../font/nahid/Nahid.ttf") format("ttf") , 
+        url("../../../font/nahid/Nahid.woff") format("woff") ,
+        url("../../../font/nahid/Nahid.woff2") format("woff2") 
+    ;
+}

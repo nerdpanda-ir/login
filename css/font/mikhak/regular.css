@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "mikhak-regular";
+    src: 
+        url("../../../font/mikhak/Mikhak-Regular.eot?#iefix") format("eot") , 
+        url("../../../font/mikhak/Mikhak-Regular.eot") format("eot") , 
+        url("../../../font/mikhak/Mikhak-Regular.svg") format("svg") , 
+        url("../../../font/mikhak/Mikhak-Regular.ttf") format("ttf") , 
+        url("../../../font/mikhak/Mikhak-Regular.woff") format("woff") , 
+        url("../../../font/mikhak/Mikhak-Regular.woff2") format("woff2")
+    ;
+}

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "vazir-rd-wol-semi-bold";
+    src: 
+        url("../../../font/vazir-rd-wol/Vazirmatn-RD-NL-SemiBold.eot?#iefix") format("eot") , 
+        url("../../../font/vazir-rd-wol/Vazirmatn-RD-NL-SemiBold.eot") format("eot") , 
+        url("../../../font/vazir-rd-wol/Vazirmatn-RD-NL-SemiBold.svg") format("svg") , 
+        url("../../../font/vazir-rd-wol/Vazirmatn-RD-NL-SemiBold.ttf") format("ttf") , 
+        url("../../../font/vazir-rd-wol/Vazirmatn-RD-NL-SemiBold.woff") format("woff") , 
+        url("../../../font/vazir-rd-wol/Vazirmatn-RD-NL-SemiBold.woff2") format("woff2")
+    ;
+}

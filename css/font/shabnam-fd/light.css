@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "shabnam-fd-light";
+    src: 
+        url("../../../font/shabnam-fd/Shabnam-Light-FD.eot?#iefix") format("eot") , 
+        url("../../../font/shabnam-fd/Shabnam-Light-FD.eot") format("eot") , 
+        url("../../../font/shabnam-fd/Shabnam-Light-FD.ttf") format("ttf") , 
+        url("../../../font/shabnam-fd/Shabnam-Light-FD.woff") format("woff") , 
+        url("../../../font/shabnam-fd/Shabnam-Light-FD.woff2") format("woff2")
+    ;
+}

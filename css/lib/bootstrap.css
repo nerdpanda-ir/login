@@ -1,0 +1,10 @@
+@import url('reset.css');
+@import url("fonts.css");
+@import url("class.css");
+body {
+    direction: rtl ;
+    background-color: rgb(23, 23, 23);
+    color: rgb(6, 213, 144);
+    line-height: 2;
+    font-family: "vazir-medium";
+}

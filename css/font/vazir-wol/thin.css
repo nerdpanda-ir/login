@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "vazir-wol-thin";
+    src: 
+        url("../../../font/vazir-wol/Vazirmatn-NL-Thin.eot?#iefix") format("eot") , 
+        url("../../../font/vazir-wol/Vazirmatn-NL-Thin.eot") format("eot") , 
+        url("../../../font/vazir-wol/Vazirmatn-NL-Thin.svg") format("svg") , 
+        url("../../../font/vazir-wol/Vazirmatn-NL-Thin.ttf") format("ttf") , 
+        url("../../../font/vazir-wol/Vazirmatn-NL-Thin.woff") format("woff") , 
+        url("../../../font/vazir-wol/Vazirmatn-NL-Thin.woff2") format("woff2")
+    ;
+}

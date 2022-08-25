@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "shabnam-wol-thin";
+    src: 
+        url("../../../font/shabnam-wol/Shabnam-Thin-WOL.eot?#iefix") format("eot") , 
+        url("../../../font/shabnam-wol/Shabnam-Thin-WOL.eot") format("eot") , 
+        url("../../../font/shabnam-wol/Shabnam-Thin-WOL.ttf") format("ttf") , 
+        url("../../../font/shabnam-wol/Shabnam-Thin-WOL.woff") format("woff") , 
+        url("../../../font/shabnam-wol/Shabnam-Thin-WOL.woff2") format("woff2")
+    ;
+}

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "vazir-rd-ui-medium";
+    src: 
+        url("../../../font/vazir-rd-ui/Vazirmatn-RD-UI-Medium.eot?#iefix") format("eot") , 
+        url("../../../font/vazir-rd-ui/Vazirmatn-RD-UI-Medium.eot") format("eot") , 
+        url("../../../font/vazir-rd-ui/Vazirmatn-RD-UI-Medium.svg") format("svg") , 
+        url("../../../font/vazir-rd-ui/Vazirmatn-RD-UI-Medium.ttf") format("ttf") , 
+        url("../../../font/vazir-rd-ui/Vazirmatn-RD-UI-Medium.woff") format("woff") , 
+        url("../../../font/vazir-rd-ui/Vazirmatn-RD-UI-Medium.woff2") format("woff2")
+    ;
+}

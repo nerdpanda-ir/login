@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "shabnam-medium";
+    src: 
+        url("../../../font/shabnam/Shabnam-Medium.eot?#iefix") format("eot") , 
+        url("../../../font/shabnam/Shabnam-Medium.eot") format("eot") , 
+        url("../../../font/shabnam/Shabnam-Medium.ttf") format("ttf") , 
+        url("../../../font/shabnam/Shabnam-Medium.woff") format("woff") , 
+        url("../../../font/shabnam/Shabnam-Medium.woff2") format("woff2")
+    ;
+}

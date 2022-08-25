@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "shabnam-fd-wol-bold";
+    src: 
+        url("../../../font/shabnam-fd-wol/Shabnam-Bold-FD-WOL.eot?#iefix") format("eot") , 
+        url("../../../font/shabnam-fd-wol/Shabnam-Bold-FD-WOL.eot") format("eot") , 
+        url("../../../font/shabnam-fd-wol/Shabnam-Bold-FD-WOL.ttf") format("ttf") , 
+        url("../../../font/shabnam-fd-wol/Shabnam-Bold-FD-WOL.woff") format("woff") , 
+        url("../../../font/shabnam-fd-wol/Shabnam-Bold-FD-WOL.woff2") format("woff2")
+    ;
+}

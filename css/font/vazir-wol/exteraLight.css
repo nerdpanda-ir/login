@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "vazir-wol-extra-light";
+    src: 
+        url("../../../font/vazir-wol/Vazirmatn-NL-ExtraLight.eot?#iefix") format("eot") , 
+        url("../../../font/vazir-wol/Vazirmatn-NL-ExtraLight.eot") format("eot") , 
+        url("../../../font/vazir-wol/Vazirmatn-NL-ExtraLight.svg") format("svg") , 
+        url("../../../font/vazir-wol/Vazirmatn-NL-ExtraLight.ttf") format("ttf") , 
+        url("../../../font/vazir-wol/Vazirmatn-NL-ExtraLight.woff") format("woff") , 
+        url("../../../font/vazir-wol/Vazirmatn-NL-ExtraLight.woff2") format("woff2")
+    ;
+}

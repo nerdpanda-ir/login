@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "estedad-light";
+    src: 
+        url("../../../font/estedad/Estedad-Light.eot?#iefix") format("eot") , 
+        url("../../../font/estedad/Estedad-Light.eot") format("eot") , 
+        url("../../../font/estedad/Estedad-Light.svg") format("svg") , 
+        url("../../../font/estedad/Estedad-Light.ttf") format("ttf") , 
+        url("../../../font/estedad/Estedad-Light.woff") format("woff") , 
+        url("../../../font/estedad/Estedad-Light.woff2") format("woff2")
+    ;
+}

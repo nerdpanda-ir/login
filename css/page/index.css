@@ -1,0 +1,168 @@
+@import url("../lib/bootstrap.css");
+@import url('../lib/pure-min.css');
+
+#waiting
+{
+    z-index: 999;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+    background:rgba(0,0,0,0.7);
+    height: 100%;
+    text-align: center;
+    display: none;
+}
+
+body{
+    background:#E9ECEF;
+    direction: rtl;
+    text-align: center;
+}
+
+.button-success,
+.button-error,
+.button-warning,
+.button-secondary {
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.button-success {
+    background: rgb(28, 184, 65); /* this is a green */
+}
+
+.button-error {
+    background: rgb(202, 60, 60); /* this is a maroon */
+}
+
+.button-warning {
+    background: rgb(223, 117, 20); /* this is an orange */
+}
+
+.button-secondary {
+    background: rgb(66, 184, 221); /* this is a light blue */
+}
+.regesterForm input{
+
+    text-indent: 40px;
+   color: slategray;
+    margin-bottom: 32px;
+}
+.wrapper {
+    margin: 0 auto;
+    display: block;
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+    color: #bbbec1;
+    border-radius: 3px;
+}
+.slideHeader{
+height: 40px;
+    color: white;
+    font-size: 18px;
+    border-radius: 3px 3px 0px 0px;
+
+}
+.regesterForm{
+    padding: 45px;
+    background: #fff;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip+.tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.tooltip+.tooltiptext::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+}
+.regesterForm input:focus+.tooltiptext {
+    visibility: visible;
+}
+html,body{
+    height: 100%;
+}
+.iconWrapper i{
+    font-size:20px;
+    position: relative;
+    right: 32px;
+    z-index: 555;
+    top: 3px;
+}.slideHeader{
+     background-image: linear-gradient(to right, #0acffe 0%, #495aff 100%); }
+
+ .flRight {
+    float: right;
+ }
+ .flLeft{float: left}
+ .slideSelector{
+     box-sizing: border-box;
+     padding: 2px 0px;
+     float: right;
+ }
+.slideHeader .slideSelector:last-child{
+    margin-left: 0px;
+    border-left: 0px;
+}
+.slideSelector:hover{cursor: pointer}
+.slideSelector .iconWrapper i{
+    position: static !important;
+    margin-left: 15px;
+    vertical-align: -5px;
+    font-size:22px;
+}
+.activeBtn{
+    border-bottom: 3px solid #c2c5c7;
+}
+.regesterForm .iconWrapper{
+    vertical-align: 16px;
+}
+.contentSlide{
+    width: 100%;
+}
+.regesterForm button{
+    color: white;
+    width: 120px;
+    height: 38px;
+}
+.clear{clear: both;}
+#LoginBtn{
+
+}
+.formError {
+    border: 1px solid #9f3a38 !important;
+    color: #9f3a38 !important;
+}
+.formSucsess {
+    border: 1px solid #0e8c8c !important;
+    color: #0e8c8c !important;
+}
+.disNone{
+    display: none;
+}
+.disBlk{
+display: block;
+}

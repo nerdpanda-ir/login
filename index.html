@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/page/index.css" type="text/css">
+    <script src="js/main.js"></script>
+</head>
+<body>
+<div id="waiting">
+    <img src="img/load.gif" alt="">
+</div>
+    <img src="img/logo.png" alt="itone developer " width="200" height="200">
+    <div class="wrapper pure-u-14-24">
+        <div class="slideHeader">
+            <div class="slideSelector activeBtn" data-BtnName="login">
+                <span class="iconWrapper">
+                    <i class="fas fa-tachometer-alt"></i>
+                </span>
+                ورود
+            </div>
+            <div class="slideSelector" data-BtnName="regester">
+                <span class="iconWrapper">
+                    <i class="fas fa-user-plus"></i>
+                </span>
+                ثبت نام
+            </div>
+            <div class="slideSelector" data-BtnName="forget">
+                <span class="iconWrapper">
+                    <i class="fas fa-user-plus"></i>
+                </span>
+                فراموشی رمز عبور
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <div class="contentSlide" data-contentName="login">
+            <form action="" class="pure-form  regesterForm " method="post">
+
+                <label for="userName"><span class="iconWrapper"><i class="fas fa-user"></i></span></label>
+
+                <input type="text" name="userName" id="userName" class="pure-u-18-24 tooltip" placeholder="نام کاربری ">
+                <span class="tooltiptext" style="top: 44%">
+                      user name
+                    </span>
+
+                <br>
+                <label for="password"><span class="iconWrapper"><i class="fas fa-key"></i></span></label>
+
+                <input type="password" name="password" id="password" class="pure-u-18-24 tooltip" autocomplete="off">
+                <span class="tooltiptext" style="top: 54%">
+                      user name
+                    </span>
+
+                <div class="btnWrapper pure-u-18-24">
+                    <button class="pure-button button-secondary flRight" id="LoginBtn">
+                        ورود
+                    </button>
+                    <button class="pure-button button-error flLeft" id="clearBtn" type="reset">
+                    پاک کن
+                    </button>
+                    <div class="clear"></div>
+                </div>
+                <label id="test">
+
+                </label>
+            </form>
+        </div>
+
+
+
+        <div class="contentSlide" data-contentName="regester" style="background: white">
+        ثبت نام
+
+        </div>
+        <div class="contentSlide" data-contentName="forget" style="background: white">
+      مورم مربوط به فراموشی رمز عبور
+
+        </div>
+    </div>
+
+</body>
+</html>

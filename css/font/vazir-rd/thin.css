@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "vazir-rd-thin";
+    src: 
+        url("../../../font/vazir-rd/VazirmatnRD-Thin.eot?#iefix") format("eot") , 
+        url("../../../font/vazir-rd/VazirmatnRD-Thin.eot") format("eot") , 
+        url("../../../font/vazir-rd/VazirmatnRD-Thin.svg") format("svg") , 
+        url("../../../font/vazir-rd/VazirmatnRD-Thin.ttf") format("ttf") , 
+        url("../../../font/vazir-rd/VazirmatnRD-Thin.woff") format("woff") , 
+        url("../../../font/vazir-rd/VazirmatnRD-Thin.woff2") format("woff2")
+    ;
+}

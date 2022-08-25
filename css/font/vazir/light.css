@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "vazir-light";
+    src: 
+        url("../../../font/vazir/Vazirmatn-Light.eot?#iefix") format("eot") , 
+        url("../../../font/vazir/Vazirmatn-Light.eot") format("eot") , 
+        url("../../../font/vazir/Vazirmatn-Light.svg") format("svg") , 
+        url("../../../font/vazir/Vazirmatn-Light.ttf") format("ttf") , 
+        url("../../../font/vazir/Vazirmatn-Light.woff") format("woff") , 
+        url("../../../font/vazir/Vazirmatn-Light.woff2") format("woff2")
+    ;
+}

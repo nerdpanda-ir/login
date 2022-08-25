@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "mikhak-ds-1-fd-thin";
+    src: 
+        url("../../../font/mikhak-ds-1-fd/Mikhak-DS1-FD-Thin.eot?#iefix") format("eot") , 
+        url("../../../font/mikhak-ds-1-fd/Mikhak-DS1-FD-Thin.eot") format("eot") , 
+        url("../../../font/mikhak-ds-1-fd/Mikhak-DS1-FD-Thin.svg") format("svg") , 
+        url("../../../font/mikhak-ds-1-fd/Mikhak-DS1-FD-Thin.ttf") format("ttf") , 
+        url("../../../font/mikhak-ds-1-fd/Mikhak-DS1-FD-Thin.woff") format("woff") , 
+        url("../../../font/mikhak-ds-1-fd/Mikhak-DS1-FD-Thin.woff2") format("woff2")
+    ;
+}
